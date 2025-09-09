@@ -53,5 +53,5 @@ It demonstrates **HTML, CSS, JavaScript, XML/DTD, and Bootstrap** integration.
 ![Cart Page](images/cart.jpeg)
 
 ### 🧑‍🎓 Profile Page
-![Profile Page](images/profile.jpeg)
+![Profile Page](images/profile.png)
 
